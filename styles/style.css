@@ -1,0 +1,17 @@
+h1 {
+  color: rgb(20, 30, 220);
+  background-color: rgb(170, 0, 255);
+}
+
+p {
+  color: rgb(221, 0, 255);
+  background-color: rgb(170, 0, 255);
+}
+
+.jumbo {
+  position: relative;
+  width: 700px;
+  height: 400px;
+  background: #BFD2BF;
+  border-radius: 25px;
+}/*# sourceMappingURL=style.css.map */
