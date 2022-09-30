@@ -1,0 +1,49 @@
+.txt1{
+  position: absolute;
+  width: 668px;
+  height: 92px;
+  left: 18px;
+  top: 252px;
+}
+
+.img1{
+  border-radius: 25px 25px 0px 0px;
+}
+
+
+.jumbo {
+  border-radius: 25px;
+  position: relative;
+  width: 700px;
+  height: 400px;
+  background: #BFD2BF;
+  border-radius: 25px;
+  box-shadow: 0px 4px 4px #000000;
+}/*# sourceMappingURL=style.css.map */ 
+
+
+@media only screen and (max-width:700px){
+  .txt1{
+    position: absolute;
+    width: 334px;
+    height: 47px;
+    left: 18px;
+    top: 252px;
+  }
+
+  .img1{
+    border-radius: 12.5px 12.5px 0px 0px;
+    height: 200px;
+    width: 350px;
+  }
+
+  .jumbo{
+    border-radius: 25px;
+    position: relative;
+    width: 350px;
+    height: 400px;
+    background: #BFD2BF;
+    border-radius: 25px;
+    box-shadow: 0px 4px 4px #000000;
+  }
+}
